@@ -1,7 +1,7 @@
 Team 41
 
 1. Himanshu Shukla - loginpage
-2. Mahendra Pratap Singh
+2. Mahendra Pratap Singh - Created Repo and linked pages
 3. Rahul Kumar Mishra - navbar 
-4. Rohan Gajare
-5. Sourabh Patel 
+4. Rohan Gajare - mensPage
+5. Sourabh Patel - signup 
