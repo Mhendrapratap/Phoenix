@@ -1,5 +1,7 @@
-1. Himanshu Shukla
+Team 41
+
+1. Himanshu Shukla - loginpage
 2. Mahendra Pratap Singh
-3. Rahul Kumar Mishra 
+3. Rahul Kumar Mishra - navbar 
 4. Rohan Gajare
 5. Sourabh Patel 
